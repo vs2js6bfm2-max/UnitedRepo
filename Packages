@@ -1,0 +1,29 @@
+Package: preferenceloader
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: ruich97 <ruich97@icloud.com>
+Depends: mobilesubstrate
+Filename: debs/preferenceloader_2.2.4_iphoneos-arm.deb
+Size: 32620
+Section: Development
+Description: load preferences in style
+
+Package: cydia
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: apr-lib, apt7-lib, apt7-key, cydia-lproj, darwintools, debianutils, org.thebigboss.repo.icons, pcre, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
+cydia_1.1.9_iphoneos-arm.deb
+Size: 2864
+Section: Packaging
+Description: graphical iPhone
+
+Package: com.jjr.hsiconfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 鸡精人
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.jjr.hsiconfix_1.0_iphoneos-arm.deb
+Size: 104
+Section: Tweaks
+Description: Without modifying the original
